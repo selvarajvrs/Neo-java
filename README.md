@@ -1,0 +1,3 @@
+# Neo-java
+
+These Neo contracts for testing purpose...
